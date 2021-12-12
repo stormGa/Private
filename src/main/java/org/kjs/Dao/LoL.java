@@ -1,4 +1,4 @@
-package org.kjs.Dao.Lol;
+package org.kjs.Dao;
 
 import com.sun.jna.Pointer;
 import com.sun.jna.platform.win32.User32;
@@ -64,6 +64,7 @@ public class LoL {
         Point avatar = new Point(1090, 40);
         return avatar;
     }
+
 
     /**
      *
