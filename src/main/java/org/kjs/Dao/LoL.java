@@ -88,6 +88,7 @@ public class LoL {
         robot.mousePress(InputEvent.BUTTON1_DOWN_MASK); //按下左键
 
         robot.mouseRelease(InputEvent.BUTTON1_DOWN_MASK); //松开左键
+        robot.delay(1000);
     }
 
 
